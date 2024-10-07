@@ -2,7 +2,7 @@
 
 🎓 **Final Year IT Student | Aspiring Cyber Security Professional**
 
-I’m a passionate IT student from Gauteng, South Africa, with a strong interest in **Cyber Security** and a goal to establish my own IT company. I enjoy building secure systems and working on tech solutions that make an impact.
+I'm a dedicated IT student based in Gauteng, South Africa, with a strong passion for Cyber Security and Data Analytics. I love working on projects that involve securing systems, analyzing data, and deriving insights that can influence decision-making. My interests lie in combining security and data to build smarter, safer tech solutions, with a focus on understanding patterns, improving performance, and driving innovation through data-driven approaches.
 
 ## 🔧 Technologies & Tools:
 - **Languages**: Python, JavaScript, SQL, C#, Java, C++
