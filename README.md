@@ -1,20 +1,56 @@
-# Hi there, I'm Heinrich Enslin! 👋
+# Hi, I'm Heinrich Enslin 👋
 
-🎓 **Final Year IT Student | Aspiring Cyber Security Professional**
+🚀 **Full-Stack Software Developer | FinTech & Cloud | Based in Dubai (UAE)**
 
-I'm a dedicated IT student based in Gauteng, South Africa, with a strong passion for Cyber Security and Data Analytics. I love working on projects that involve securing systems, analyzing data, and deriving insights that can influence decision-making. My interests lie in combining security and data to build smarter, safer tech solutions, with a focus on understanding patterns, improving performance, and driving innovation through data-driven approaches.
+I'm a professional software developer currently working in fintech and banking systems, building production-grade APIs, cloud infrastructure, and full-stack applications for real financial clients. I'm experienced across the entire delivery lifecycle — from backend architecture and database design through to CI/CD pipelines and live production releases.
 
-## 🔧 Technologies & Tools:
-- **Languages**: Python, JavaScript, SQL, C#, Java, C++
-- **Databases**: MySQL, PostgreSQL, SQLite
-- **Backend**: .NET, ASP.NET Core
-- **Cloud**: AWS, Azure
-- **Cybersecurity**: Network Security, Encryption, JWT Authentication, Steganography 
+Currently based in Dubai and open to new opportunities in the UAE. Available for immediate interviews.
 
-## 💻 Current Projects:
-- **Full-stack Development** using Flutter and Rails API
-- **Sentiment Analysis** on reviews using Python & TextBlob
-- **AWS Deployment** and API management for secure systems
+---
 
-## 📫 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/heinrich-enslin)
+## 🔧 Tech Stack
+
+**Frontend**
+`Angular` `Flutter (Desktop & Android)` `TypeScript` `JavaScript` `HTML/CSS`
+
+**Backend**
+`C#` `.NET Web API` `InterSystems IRIS` `ObjectScript` `Java` `Python` `RESTful APIs`
+
+**Databases**
+`SQL` `MySQL` `PostgreSQL` `SQLite`
+
+**Cloud & DevOps**
+`AWS EC2` `AWS S3` `CI/CD Pipelines` `Automated Testing` `Production Release Management`
+
+**Tools**
+`Git` `GitLab` `Linux` `Agile / Scrum` `Figma`
+
+---
+
+## 💼 What I've Shipped
+
+- 🏦 Production RESTful APIs for fintech and banking clients on **InterSystems IRIS** — a specialised platform used by leading financial institutions globally
+- ☁️ Distributed backend infrastructure on **AWS (EC2 + S3)** with full CI/CD automation
+- 🔒 Modernised legacy APIs to current **security standards**, eliminating known vulnerabilities
+- ⚡ Engineered a feature that **completely eliminated a manual support process**, reducing operational overhead to zero
+- 📋 Established company-wide **testing documentation standards** now used across all projects
+- 🎓 Trained and onboarded **2 new developers** into complex fintech systems
+
+---
+
+## 🎓 Education
+
+- BSc Information Technology — North-West University (2022–2024)
+- BSc Computer Science with Physics — North-West University (2021–2022)
+
+---
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/heinrich-e-53a6a9231/)
+- 📧 HeinrichEnslin91@gmail.com
+- 📱 +971 52 793 3060 (UAE)
+
+---
+
+*Open to full-stack, fintech, and cloud roles in the UAE. Visa sponsorship required — 1 month notice period.*
